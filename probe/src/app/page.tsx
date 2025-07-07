@@ -52,7 +52,7 @@ export default function LandingPage() {
           {/* CTA Button */}
           <div className="mb-12 flex flex-col sm:flex-row gap-4 justify-center">
             <a 
-              href="https://x.com/intent/tweet?text=@ProjectProbeAI%20is%20this%20project%20legit%3F"
+              href="https://x.com/intent/tweet?text=@AnubaAi%20is%20this%20project%20legit%3F"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-xl bg-[#72c414] px-8 py-4 text-lg font-medium text-white shadow-lg hover:bg-[#34c414] hover:shadow-xl transition-all"
